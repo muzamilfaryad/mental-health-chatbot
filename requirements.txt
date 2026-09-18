@@ -1,0 +1,5 @@
+# Core dependencies
+gradio>=6.28.0          # Web UI framework
+huggingface-hub>=1.0.0  # Hugging Face API client
+python-dotenv>=1.0.0    # Environment variable management
+pydantic>=2.9.0         # Data validation
