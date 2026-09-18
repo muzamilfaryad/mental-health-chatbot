@@ -1,7 +1,0 @@
-openai
-google-generativeai
-langchain
-langchain_community
-sentence-transformers
-faiss-gpu
-faiss-cpu
