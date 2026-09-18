@@ -18,10 +18,6 @@
 
 <br/>
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-<br/>
-
 ### 💡 *Empowering conversations powered by advanced AI*
 
 > An intelligent, compassionate chatbot designed to provide mental health support, wellness guidance, and emotional comfort through natural, empathetic conversations.
